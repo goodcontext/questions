@@ -1,0 +1,16 @@
+newmtl 유리
+illum 7
+Kd 0.995591 1 1
+adobe_interior_color 1 1 1
+Ni 1.8
+adobe_density 0
+Tr 0.75
+d 0.25
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 1
+Pr 0
+Ns 16
+Ks 1 1 1
+adobe_glow 0
